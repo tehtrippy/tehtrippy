@@ -1,5 +1,5 @@
 # Hey, there 🙌
-My name is Parinya Rueangphun I'm a developer at Tong Hua Labs.
+My name is Parinya Rueangphun I'm a Fullstack Developer at Tong Hua Labs.
 
 ![Github Stat](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tehtrippy&theme=dracula)
 
